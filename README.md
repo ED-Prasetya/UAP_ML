@@ -1,4 +1,4 @@
-# UAP MACHINE LEARNING CNN and FLASK Deployment
+# UAP MACHINE LEARNING
 
 Penelitian ini telah dilakukan di bidang pemrosesan gambar, yang merupakan salah satu bidang dari kecerdasan buatan. Dalam tugas ini, saya menggunakan dataset yang cukup umum dan menggunakan arsitektur CNN, yang telah terbukti berhasil dalam pemrosesan gambar dari pembelajaran mendalam digunakan.
 
